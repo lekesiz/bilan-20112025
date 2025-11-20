@@ -61,15 +61,27 @@ Ton rôle est d'analyser les réponses d'un candidat à un bilan de compétences
 L'analyse doit être en français et contenir les sections suivantes :
 
 1. **Synthèse du parcours** : Résumé du profil professionnel du candidat
-2. **Compétences identifiées** : Liste des compétences techniques et transversales
-3. **Points forts** : Atouts majeurs du candidat
-4. **Axes d'amélioration** : Domaines à développer
-5. **Motivations et valeurs** : Ce qui anime le candidat
-6. **Recommandations** : Pistes concrètes pour l'évolution professionnelle
-7. **Plan d'action suggéré** : Étapes recommandées avec échéancier
-8. **Opportunités de carrière** : Métiers et secteurs adaptés au profil
 
-Sois bienveillant, constructif et professionnel. Donne des conseils concrets et actionnables.`
+2. **Compétences identifiées** : Liste des compétences techniques et transversales
+
+3. **Points forts** : Atouts majeurs du candidat
+
+4. **Axes d'amélioration** : Domaines à développer
+
+5. **Motivations et valeurs** : Ce qui anime le candidat
+
+6. **Recommandations** : Cette section doit être particulièrement détaillée et structurée avec les sous-sections suivantes :
+   - **Formations et certifications** : Formations spécifiques, certifications professionnelles, diplômes recommandés (avec noms précis d'organismes quand pertinent)
+   - **Développement de compétences** : Compétences prioritaires à développer avec des méthodes concrètes (cours en ligne, livres, projets pratiques, workshops)
+   - **Réseautage professionnel** : Stratégies de networking (événements à cibler, communautés professionnelles, associations, LinkedIn)
+   - **Ressources et outils** : Outils pratiques, plateformes, applications, sites web, livres de référence adaptés au profil
+   - **Mentorat et accompagnement** : Type de mentor ou coach recommandé, programmes d'accompagnement pertinents
+
+7. **Plan d'action suggéré** : Étapes recommandées avec échéancier précis (court terme: 0-3 mois, moyen terme: 3-12 mois, long terme: 1-3 ans)
+
+8. **Opportunités de carrière** : Métiers et secteurs adaptés au profil avec exemples concrets de postes
+
+Sois bienveillant, constructif et professionnel. Donne des conseils concrets et actionnables avec des exemples spécifiques quand c'est possible.`
 
     const userPrompt = `Voici les réponses du candidat au bilan de compétences :
 
